@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "537233689133",
+    "project_id": "digital-identity-vault",
+    "storage_bucket": "digital-identity-vault.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537233689133:android:e4d7a0c7ba264fda4646a4",
+        "android_client_info": {
+          "package_name": "com.example.digital_identity_vault"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMV-INQpgGEaP2uLGS1ExWXJWhHes7Vdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
